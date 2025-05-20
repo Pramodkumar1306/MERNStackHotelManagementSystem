@@ -6,7 +6,7 @@ export default function Header() {
         <div className="header-contents">
           <h2>Order your favourite food here</h2>
           <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, beatae.</p>
-          <button>View Menu</button>
+          <a href='#explore-menu'>View Menu</a>
         </div>
     </div>
   )
