@@ -2,7 +2,7 @@ import React from 'react'
 import { assets } from '../../assets/assets';
 import './Footer.css'
 export default function Footer() {
-    console.log(assets);
+    // console.log(assets);
     
     return (
         <div className='footer' id='footer'>
